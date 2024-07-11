@@ -2,7 +2,7 @@
 
 Python version 3.12.4
 
-Right now this object detection uses
+Right now this object detection uses CPU processing power, so its kinda slow
 
 
 ## TODO
